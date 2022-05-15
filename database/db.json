@@ -1,14 +1,18 @@
 {
     "data": [
         {
-            "username":"hieu",
-            "password":"311001",
-            "id":"1"
+            "id":"19020292",
+            "name": "Vũ Minh Hiếu",
+            "age": "20",
+            "class": "K64N",
+            "address": "Thái Bình"
         },
         {
-            "username":"khanh",
-            "password":"201001",
-            "id":"2"
+            "id":"19020293",
+            "name": "Phạm Quang Khánh",
+            "age": "20",
+            "class": "K64CB",
+            "address": "Thái Bình"
         }
     ]
 }

@@ -1,14 +1,15 @@
-.container{
-    margin: auto;
-    max-width: 980px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.demo{
-    border: 1px solid #000000;
-    padding: 24px;
-}
-button{
-    margin: 12px 0;
-}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
